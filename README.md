@@ -6,4 +6,5 @@ What is Red Teaming?
 Here is a list of courses that I'm taking:
 - https://www.youtube.com/watch?v=lZAoFs75_cs&t=1218s
 - https://www.youtube.com/watch?v=r8giT8BBdw8&list=PLLKT__MCUeiwfK18Io6kvwrrhqQyQnV5W 
-and the most important: https://app.cybrary.it/browse/course/comptia-linux-plus?queryID=6a86319ace2fda98356c53d504e65581&objectID=5785 I believe Cybrary is a well-recognized portal in 2020 and most of the Senior Hiring managers recognize it.
+and the most important: https://app.cybrary.it/browse/course/comptia-linux-plus?queryID=6a86319ace2fda98356c53d504e65581&objectID=5785 
+I believe Cybrary is a well-recognized portal in 2020 and most of the Senior Hiring managers recognize it.
