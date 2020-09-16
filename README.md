@@ -1,4 +1,4 @@
-<div style="text-align:center">![red teaming](https://user-images.githubusercontent.com/16366238/93334376-c371a880-f81c-11ea-88f9-88347bbab741.PNG)</div>
+![red teaming](https://user-images.githubusercontent.com/16366238/93334376-c371a880-f81c-11ea-88f9-88347bbab741.PNG)
 
 
 This repository I a blog of my journey to become a Cybersecurity Specialist, focusing on the Red team.
