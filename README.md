@@ -1,3 +1,6 @@
+
+
+
 This repository I a blog of my journey to become a Cybersecurity Specialist, focusing on the Red team.
 You may say, eh another Red team guy... well here is a short explanation why I Like the Red team:
 What is Red Teaming? 
@@ -12,8 +15,9 @@ I believe Cybrary is a well-recognized portal in 2020 and most of the Senior Hi
 AFter finishing linux courses, I'm starting with:
 https://www.thecybermentor.com/zero-to-hero-pentesting 
 
-I'm not touching network+ and security+ on purpose.
+I'm not touching network+ and security+ on purpose. - i did  last year camptia network + in depth course + In my current work I was doing networking while testing, By runing pen testing course i will get better understand if I need to run again network course or its enough for now with my current knowledge
 
+Note while running this course and you will get to taking notes part let him finish and then run another short in depht explanation tutorial how to take notes in cherrytree (run it on windows as you WM machine will crack very offt during learning patch- mine did already twice, take your notes on windows but in cherrytree its important to be familiar with this tool as i can speed up your report creation when doing CTF or bug bounties and also you can use it when creating an report at your new work:) )
 
 
 for next step :
