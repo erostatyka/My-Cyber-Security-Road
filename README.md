@@ -1,10 +1,10 @@
  <p align="center"> 
     <img src="https://user-images.githubusercontent.com/16366238/93334376-c371a880-f81c-11ea-88f9-88347bbab741.PNG" alt="alternate text">
  </p>
-![red teaming](https://user-images.githubusercontent.com/16366238/93334376-c371a880-f81c-11ea-88f9-88347bbab741.PNG)
 
 
-This repository I a blog of my journey to become a Cybersecurity Specialist, focusing on the Red team.
+
+ This blog is my journey to become a Cybersecurity Specialist, focusing on the Red team.
 You may say, eh another Red team guy... well here is a short explanation why I Like the Red team:
 What is Red Teaming? 
 ,, Red Teaming is a full-scope, multi-layered attack simulation designed to measure how well a company’s people and networks, applications, and physical security controls can withstand an attack from a real-life adversary.''
