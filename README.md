@@ -4,7 +4,7 @@
 
 
 
- This blog is my journey to become a Cybersecurity Specialist, focusing on the Red team.
+ This blog is my journey to become a Cybersecurity Specialist in the Red team.
 You may say, eh another Red team guy... well here is a short explanation why I Like the Red team:
 What is Red Teaming? 
 ,, Red Teaming is a full-scope, multi-layered attack simulation designed to measure how well a company’s people and networks, applications, and physical security controls can withstand an attack from a real-life adversary.''
