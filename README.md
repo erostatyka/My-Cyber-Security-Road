@@ -8,6 +8,10 @@
 You may say, eh another Red team guy... well here is a short explanation why I Like the Red team:
 What is Red Teaming? 
 ,, Red Teaming is a full-scope, multi-layered attack simulation designed to measure how well a company’s people and networks, applications, and physical security controls can withstand an attack from a real-life adversary.''
+Red team tasks:
+- Vulnerability assessments
+- Penetration test
+- Red Team Engagements 
 1. My First step is to gain more experience within Linux - as a beginner, I'm focusing on Kali v2020.3. ( As a QA analyst I already worked with Ubuntu, Mint, and KDE Plasma). My goal is to become comfortable with the usage of the command line and most of the preinstalled tools that pen-testers are using.
 Here is a list of courses that I'm taking:
 - https://www.youtube.com/watch?v=lZAoFs75_cs&t=1218s
