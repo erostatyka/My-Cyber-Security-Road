@@ -1,10 +1,10 @@
- <p align="center"> 
-    <img src="https://user-images.githubusercontent.com/16366238/93334376-c371a880-f81c-11ea-88f9-88347bbab741.PNG" alt="alternate text">
- </p>
+<p align="center"> 
+    <img src="https://user-images.githubusercontent.com/16366238/93334376-c371a880-f81c-11ea-88f9-88347bbab741.PNG" alt="alternate text">
+ </p>
 
 
 
- This blog is my journey to become a Cybersecurity Specialist in the Red team.
+ This blog is my journey to become a Cybersecurity Specialist in the Red team.
 You may say, eh another Red team guy... well here is a short explanation why I Like the Red team:
 What is Red Teaming? 
 ,, Red Teaming is a full-scope, multi-layered attack simulation designed to measure how well a company’s people and networks, applications, and physical security controls can withstand an attack from a real-life adversary.''
@@ -19,13 +19,17 @@ Here is a list of courses that I'm taking:
 and the most important: https://app.cybrary.it/browse/course/comptia-linux-plus?queryID=6a86319ace2fda98356c53d504e65581&objectID=5785 
 I believe Cybrary is a well-recognized portal in 2020 and most of the Senior Hiring managers recognize it.
 
-AFter finishing linux courses, I'm starting with:
+After finishing Linux courses, I'm starting with:
 https://www.thecybermentor.com/zero-to-hero-pentesting 
 
-I'm not touching network+ and security+ on purpose. - i did  last year camptia network + in depth course + In my current work I was doing networking while testing, By runing pen testing course i will get better understand if I need to run again network course or its enough for now with my current knowledge
+I'm not touching network+ and security+ on purpose. - I did  last year CompTIA network + in-depth course + In my current work I was doing networking while testing, By running the pen testing course I will get a better understand if I need to run again network course or it's enough for now with my current knowledge
 
-Note while running this course you will get to taking notes part, let him finish and then run another short in depht explanation tutorial how to take notes in cherrytree (run it on windows as you WM machine will crack very offt during learning patch- mine did already twice, take your notes on windows but in cherrytree its important to be familiar with this tool as i can speed up your report creation when doing CTF or bug bounties and also you can use it when creating an report at your new work:) ) This explanation was enough for me to be comfortable: https://www.youtube.com/watch?v=vlmlb2kqbfo 
+Note while running this course you will get to taking notes part, let him finish and then run another short in-depth explanation tutorial how to take notes in Cherrytree (run it on windows as you WM machine will crack very often during the learning patch- mine did already twice, take your notes on windows but in Cherrytree, it's important to be familiar with this tool as I can speed up your report creation when doing CTF or bug bounties and also you can use it when creating a report at your new work:) ) This explanation was enough for me to be comfortable: https://www.youtube.com/watch?v=vlmlb2kqbfo 
+ Just quick advice as most you people at the start of the journey is asking the same question how to hide your kali Linux IP, after hours of research my advice is:
+ When doing courses everything is super legal but still, I would advise using nordvp or better Mullvad VPN,
+ 
+ When doing bug bounties or some other stuff with your local wifi .... :D use proxychain, whoami or anonsurf - test what's suits you the most
 
 
-for next step :
+for the next step :
 https://www.youtube.com/watch?v=xl2Xx5YOKcI&list=PL1H1sBF1VAKUOm3WyiZ-m2Oqwku4Xp6if
