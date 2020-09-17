@@ -22,10 +22,15 @@ I believe Cybrary is a well-recognized portal in 2020 and most of the Senior Hi
 After finishing Linux courses, I'm starting with:
 https://www.thecybermentor.com/zero-to-hero-pentesting 
 
+While running this course there are couple of additional links from me to get better understanding:
+ Python (this guy is excelent) https://www.youtube.com/watch?v=kqtD5dpn9C8   this one is not required but I was so curious https://www.youtube.com/watch?v=7eh4d6sabA0
+ and explanation what is ping sweep: https://en.wikipedia.org/wiki/Ping_sweep  I will add a python ping sweep to this repo. 
+
 I'm not touching network+ and security+ on purpose. - I did  last year CompTIA network + in-depth course + In my current work I was doing networking while testing, By running the pen testing course I will get a better understand if I need to run again network course or it's enough for now with my current knowledge
 
 Note while running this course you will get to taking notes part, let him finish and then run another short in-depth explanation tutorial how to take notes in Cherrytree (run it on windows as you WM machine will crack very often during the learning patch- mine did already twice, take your notes on windows but in Cherrytree, it's important to be familiar with this tool as I can speed up your report creation when doing CTF or bug bounties and also you can use it when creating a report at your new work:) ) This explanation was enough for me to be comfortable: https://www.youtube.com/watch?v=vlmlb2kqbfo 
- Just quick advice as most you people at the start of the journey is asking the same question how to hide your kali Linux IP, after hours of research my advice is:
+ 
+ Just quick advice as most you people at the start of the journey is asking the same question how to hide your kali Linux IP, after hours of research my advice is:
  When doing courses everything is super legal but still, I would advise using nordvp or better Mullvad VPN,
  
  When doing bug bounties or some other stuff with your local wifi .... :D use proxychain, whoami or anonsurf - test what's suits you the most
