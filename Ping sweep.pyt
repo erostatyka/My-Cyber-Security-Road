@@ -20,7 +20,7 @@ def main(subnet, filename):
 	write_result(filename, ping_subnet(subnet))
 	
 def parse_arguments():
-     parser = argparse.ArgumentParser(usage='%(prog)s [options] <subnet>',
+    parser = argparse.ArgumentParser(usage='%(prog)s [options] <subnet>',
      			             description='ip checker',
      			             epilog="python ipscanner.py 192.168.1 -f somefile.txt")
      parser.add_argument('subnet', type=str, help='the subnet you want to ping')
@@ -32,7 +32,7 @@ def parse_arguments():
        parser.error("This is not a valid subnet")
        
      if " " in args.filename:
-          parser.error("There cannot be whitespaces in the filename"")
+         parser.error("There cannot be whitespaces in the filename"")
           
       return args.subnet, args.filename
       
