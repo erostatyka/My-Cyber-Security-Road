@@ -30,11 +30,12 @@ I'm not touching network+ and security+ on purpose. - I did  last year CompTIA 
 
 Note while running this course you will get to taking notes part, let him finish and then run another short in-depth explanation tutorial how to take notes in Cherrytree (run it on windows as you WM machine will crack very often during the learning patch- mine did already twice, take your notes on windows but in Cherrytree, it's important to be familiar with this tool as I can speed up your report creation when doing CTF or bug bounties and also you can use it when creating a report at your new work:) ) This explanation was enough for me to be comfortable: https://www.youtube.com/watch?v=vlmlb2kqbfo 
  
- Just quick advice as most you people at the start of the journey is asking the same question how to hide your kali Linux IP, after hours of research my advice is:
+ Just quick advice as most of the people at the start of the journey is asking the same question how to hide your kali Linux IP, after hours of research my advice is:
  When doing courses everything is super legal but still, I would advise using nordvp or better Mullvad VPN,
  
- When doing bug bounties or some other stuff with your local wifi .... :D use proxychain, whoami or anonsurf - test what's suits you the most
+ When doing bug bounties or some other stuff with your local wifi .... :D use proxychain, whoami or anonsurf - test what's suits you the most - bug bounties are legal so us VPN.
 
 
-for the next step :
-https://www.youtube.com/watch?v=xl2Xx5YOKcI&list=PL1H1sBF1VAKUOm3WyiZ-m2Oqwku4Xp6if
+For the next step after finishing the cyber mentors course I'm full emerging into https://www.tryhackme.com :
+
+https://www.youtube.com/watch?v=xl2Xx5YOKcI&list=PL1H1sBF1VAKUOm3WyiZ-m2Oqwku4Xp6if <- amazing video for starters
