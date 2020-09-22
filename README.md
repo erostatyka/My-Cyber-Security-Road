@@ -40,4 +40,4 @@ For the next step after finishing the cyber mentors course I'm full emerging int
 
 https://www.youtube.com/watch?v=xl2Xx5YOKcI&list=PL1H1sBF1VAKUOm3WyiZ-m2Oqwku4Xp6if <- amazing video for starters
 
-I did enrolled for pro version (£8 a month!!!) and went all learning paths started with introduction and then beginner path.
+I did enrolled for pro version (£8 a month!!!) and went to lear all paths started with introduction and then beginner.
