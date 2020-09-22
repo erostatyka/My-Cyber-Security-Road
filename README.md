@@ -28,12 +28,15 @@ While running this course there are couple of additional links from me to get be
 
 I'm not touching network+ and security+ on purpose. - I did  last year CompTIA network + in-depth course + In my current work I was doing networking while testing, By running the pen testing course I will get a better understand if I need to run again network course or it's enough for now with my current knowledge
 
+
 Note while running this course you will get to taking notes part, let him finish and then run another short in-depth explanation tutorial how to take notes in Cherrytree (run it on windows as you WM machine will crack very often during the learning patch- mine did already twice, take your notes on windows but in Cherrytree, it's important to be familiar with this tool as I can speed up your report creation when doing CTF or bug bounties and also you can use it when creating a report at your new work:) ) This explanation was enough for me to be comfortable: https://www.youtube.com/watch?v=vlmlb2kqbfo 
  
- Just quick advice as most of the people at the start of the journey is asking the same question how to hide your kali Linux IP, after hours of research my advice is:
- When doing courses everything is super legal but still, I would advise using nordvp or better Mullvad VPN,
+ 
+Just quick advice as most of the people at the start of the journey is asking the same question how to hide your kali Linux IP, after hours of research my advice is:
+When doing courses everything is super legal but still, I would advise using nordvp or better Mullvad VPN,
  
- When doing bug bounties or some other stuff with your local wifi .... :D use proxychain, whoami or anonsurf - test what's suits you the most - bug bounties are legal so us VPN.
+ 
+When doing bug bounties or some other stuff with your local wifi .... :D use proxychain, whoami or anonsurf - test what's suits you the most - bug bounties are legal so us VPN.
 
 
 For the next step after finishing the cyber mentors course I'm full emerging into https://www.tryhackme.com :
