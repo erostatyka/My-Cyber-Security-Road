@@ -12,3 +12,6 @@ https://github.com/sherlock-project/sherlock <- Hunt down social media accounts 
 
 https://github.com/SpiderLabs/Responder ./Responder.py -I tun0 <- Retrieving Network Service Hashes
 
+
+During my learning process i decide to take all notes and list of tools in cherryTree. When I finish most of notes will land here
+
