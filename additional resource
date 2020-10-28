@@ -4,3 +4,47 @@ https://www.youtube.com/watch?v=iLFkxAmwXF0&t=1s - How to Master FFUF for Bug Bo
 https://www.youtube.com/watch?v=uKWu6yhnhbQ&t=1s - The Bug Hunter's Methodology Full 2-hour Training by Jason Haddix
 https://www.youtube.com/watch?v=gIz_yn0Uvb8&t=1837s - The Bug Hunter’s Methodology Jason Haddix
 https://github.com/philipperemy/tensorflow-1.4-billion-password-analysis
+
+
+hunter.io - Email Hunter, is an email hunter tool that helps marketers find the contact information associated with any domain. This is ideal for companies that use cold emailing as a way to fill their pipeline. Furthermore, Email Hunter can be used to verify emails and do bulk tasks.  
+
+breach-parse mavericadams github
+https://github.com/philipperemy/tensorflow-1.4-billion-password-analysis
+
+Go to website and look for location and contact 
+Google hacking example:
+
+siote:tesla.com -www (i takes www out)
+ 			-filetype:pdf
+ 			
+theharvester : 
+ 				
+The objective of this program is to gather emails, subdomains, hosts, employee names, open ports and banners from different public sources like search engines, PGP key servers and SHODAN computer database.
+
+This tool is intended to help Penetration testers in the early stages of the penetration test in order to understand the customer footprint on the Internet. It is also useful for anyone that wants to know what an attacker can see about their organization.
+
+https://haveibeenpwned.com/
+
+
+
+https://github.com/darryllane/Bluto    - bruteforce
+
+Start: Bluto and then domain address when it will ask
+
+https://crt.sh website to verify certificates example: %.tesla.com
+
+ 									SUBDOMAINS:
+
+SUBLISTE3R     <- https://tools.kali.org/information-gathering/sublist3r to look for subdomains mostly level 3
+
+owasp amass    <- https://github.com/OWASP/Amass
+
+tomnmomniom httprobe  https://github.com/tomnomnom/httprobe   Take a list of domains and probe for working http and https servers.
+
+             Identifying website technologies:
+
+builtwith - shows what technologie/language/framework was website builded  https://builtwith.com/  
+
+wappalyzer firefox addon live reconnaissanse 
+
+whatweb in kali linux - whatweb website address 
