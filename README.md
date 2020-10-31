@@ -48,3 +48,5 @@ I a free time between reading ,,hacker'' stuff and tryhackme I have enrolled or 
 
 Enroled to https://academy.tcm-sec.com/ its a fantastic course: Practical Ethical Hacking higly recommended
 
+I am building my homelabs - details soon!
+
