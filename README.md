@@ -50,3 +50,5 @@ Enroled to https://academy.tcm-sec.com/ its a fantastic course: Practical Ethica
 
 I am building my homelabs - details soon!
 
+https://www.amazon.co.uk/Linux-Command-Shell-Scripting-Bible/dp/111898384X
+
