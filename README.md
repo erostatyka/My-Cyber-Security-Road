@@ -52,3 +52,5 @@ I am building my homelabs - details soon!
 
 https://www.amazon.co.uk/Linux-Command-Shell-Scripting-Bible/dp/111898384X must have book
 
+https://www.youtube.com/watch?v=uirJsgvN7Hc excellent explanation what is CSRF token and how to hack it
+
