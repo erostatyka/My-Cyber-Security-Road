@@ -54,3 +54,5 @@ https://www.amazon.co.uk/Linux-Command-Shell-Scripting-Bible/dp/111898384X must 
 
 https://www.youtube.com/watch?v=uirJsgvN7Hc excellent explanation what is CSRF token and how to hack it https://thexssrat.medium.com/bug-bounty-methodology-csrf-1988d1f512b0
 
+
+https://academy.hackthebox.eu/ fantastic resource - pricy 
