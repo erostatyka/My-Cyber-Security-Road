@@ -15,3 +15,5 @@ https://virtual.group-ib.com/ CyberCrimeCon 25-27.11.2020
 Hacker Spotlight Panel https://www.hackerone.com/resources/wistia-webinars/hacker-spotlight-panel-emea?mkt_tok=eyJpIjoiTkRVMll6RTVaVEU0WWpZdyIsInQiOiJWQTRTUXVOdW5FelN6UnlITTU5d3ZST0pJTjhNMVl5NU4rOVlqTDQrMDRcL0xYaHJ1bitDaXVtTkN3b0ZibjI4bUhYMEhvTm5xK2ZXeHZkSTd1ZmFnSXBkNUEyQ2RRMUhwOUdvMlNmRVZ6Y3hSdGNobjZKOHh3cWVOa1hucG5XcEkifQ%3D%3D
 
 Cyber House party 2.1 - Festive Special 17.12.2020
+
+Red Team Village at NahamCON  14/03/2021
