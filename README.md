@@ -56,3 +56,6 @@ https://www.youtube.com/watch?v=uirJsgvN7Hc excellent explanation what is CSRF t
 
 
 https://academy.hackthebox.eu/ fantastic resource - pricy 
+plenty of courses have been done. soon update.
+
+
