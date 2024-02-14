@@ -4,58 +4,47 @@
 
 
 
- This blog is my journey to become a Cybersecurity Specialist in the Red team.
-You may say, eh another Red team guy... well here is a short explanation why I Like the Red team:
-What is Red Teaming? 
-,, Red Teaming is a full-scope, multi-layered attack simulation designed to measure how well a company’s people and networks, applications, and physical security controls can withstand an attack from a real-life adversary.''
-Red team tasks:
-- Vulnerability assessments
-- Penetration test
-- Red Team Engagements 
-1. My First step is to gain more experience within Linux - as a beginner, I'm focusing on Kali v2020.3. ( As a QA analyst I already worked with Ubuntu, Mint, and KDE Plasma). My goal is to become comfortable with the usage of the command line and most of the preinstalled tools that pen-testers are using.
-Here is a list of courses that I'm taking:
-- https://www.youtube.com/watch?v=lZAoFs75_cs&t=1218s
-- https://www.youtube.com/watch?v=r8giT8BBdw8&list=PLLKT__MCUeiwfK18Io6kvwrrhqQyQnV5W 
-and the most important: https://app.cybrary.it/browse/course/comptia-linux-plus?queryID=6a86319ace2fda98356c53d504e65581&objectID=5785 
-I believe Cybrary is a well-recognized portal in 2020 and most of the Senior Hiring managers recognize it.
+ This blog documents my journey to become a Cybersecurity Specialist in the Red team. You may think, "oh, another Red team guy..." Well, here's a brief explanation of why I like the Red team:
 
-After finishing Linux courses, I'm starting with:
-https://www.thecybermentor.com/zero-to-hero-pentesting 
+What is Red Teaming? Red Teaming is a full-scope, multi-layered attack simulation designed to measure how well a company’s people, networks, applications, and physical security controls can withstand an attack from a real-life adversary. Red team tasks include:
 
-While running this course there are couple of additional links from me to get better understanding:
- Python (this guy is excelent) https://www.youtube.com/watch?v=kqtD5dpn9C8   this one is not required but I was so curious https://www.youtube.com/watch?v=7eh4d6sabA0
- and explanation what is ping sweep: https://en.wikipedia.org/wiki/Ping_sweep  I will add a python ping sweep to this repo. 
+Vulnerability assessments
+Penetration tests
+Red Team Engagements
+My first step is to gain more experience within Linux. As a beginner, I'm focusing on Kali v2020.3. (As a QA analyst, I already worked with Ubuntu, Mint, and KDE Plasma.) My goal is to become comfortable with the usage of the command line and most of the preinstalled tools that pen-testers use. Here is a list of courses that I'm taking:
 
-I'm not touching network+ and security+ on purpose. - I did  last year CompTIA network + in-depth course + In my current work I was doing networking while testing, By running the pen testing course I will get a better understand if I need to run again network course or it's enough for now with my current knowledge
+Linux Basics Course
+Kali Linux Tutorial for Beginners
+CompTIA Linux+
+I believe Cybrary is a well-recognized portal in 2020, and most Senior Hiring managers recognize it. After finishing Linux courses, I'm starting with The Cyber Mentor's Zero to Hero Pentesting course.
 
+While running this course, there are a couple of additional links for better understanding:
 
-Note while running this course you will get to taking notes part, let him finish and then run another short in-depth explanation tutorial how to take notes in Cherrytree (run it on windows as you WM machine will crack very often during the learning patch- mine did already twice, take your notes on windows but in Cherrytree, it's important to be familiar with this tool as I can speed up your report creation when doing CTF or bug bounties and also you can use it when creating a report at your new work:) ) This explanation was enough for me to be comfortable: https://www.youtube.com/watch?v=vlmlb2kqbfo 
- 
- 
-Just quick advice as most of the people at the start of the journey is asking the same question how to hide your kali Linux IP, after hours of research my advice is:
-When doing courses everything is super legal but still, I would advise using nordvp or better Mullvad VPN,
- 
- 
-When doing bug bounties or some other stuff with your local wifi .... :D use proxychain, whoami or anonsurf - test what's suits you the most - bug bounties are legal so us VPN.
+Python (this guy is excellent) Python for Beginners
+Explanation of a ping sweep: Wikipedia: Ping Sweep
+I will add a Python ping sweep to this repo.
 
+I'm intentionally skipping Network+ and Security+ for now. Last year, I completed the CompTIA Network+ in-depth course, and in my current work, I was involved in networking while testing. By running the pen testing course, I hope to better understand if I need to revisit networking or if my current knowledge suffices.
 
-For the next step after finishing the cyber mentors course I'm full emerging into https://www.tryhackme.com :
+Note: While running this course, you will get to the note-taking part. Let him finish, and then run another short in-depth explanation tutorial on how to take notes in Cherrytree. It's important to be familiar with this tool, as it can speed up your report creation when doing CTF or bug bounties, and you can use it when creating a report at your new work. This explanation was enough for me to feel comfortable: Cherrytree Tutorial
 
-https://www.youtube.com/watch?v=xl2Xx5YOKcI&list=PL1H1sBF1VAKUOm3WyiZ-m2Oqwku4Xp6if <- amazing video for starters
+Just a quick advice: many people at the start of the journey ask the same question - how to hide your Kali Linux IP. After hours of research, my advice is: when doing courses, everything is legal, but still, I would advise using NordVPN or preferably Mullvad VPN.
 
-I did enrolled for pro version (£8 a month!!!) and went to lear all paths started with introduction and then beginner, they are challenging but great.
-I a free time between reading ,,hacker'' stuff and tryhackme I have enrolled or started (its free) https://www.linode.com/events/ from hackersploit fantastic series: Linode LIVE! HackerSploit: Linux Server Security Series, Virtual
+For bug bounties or other stuff with your local Wi-Fi, use proxychains, whoami, or anonsurf - test what suits you the most. Bug bounties are legal, so use VPN.
 
-Enroled to https://academy.tcm-sec.com/ its a fantastic course: Practical Ethical Hacking higly recommended
+For the next step after finishing the Cyber Mentor's course, I'm fully immersing myself into TryHackMe:
 
-I am building my homelabs - details soon!
+Amazing video for starters
+I've enrolled in the pro version (£8 a month) and started with the introduction and then beginner paths. They are challenging but great. In my free time between reading "hacker" stuff and TryHackMe, I've enrolled in or started (it's free) Linode events from HackerSploit's fantastic series: Linode LIVE! HackerSploit: Linux Server Security Series, Virtual.
 
-https://www.amazon.co.uk/Linux-Command-Shell-Scripting-Bible/dp/111898384X must have book
+I've also enrolled in TCM Security Academy. It's a fantastic course: Practical Ethical Hacking, highly recommended.
 
-https://www.youtube.com/watch?v=uirJsgvN7Hc excellent explanation what is CSRF token and how to hack it https://thexssrat.medium.com/bug-bounty-methodology-csrf-1988d1f512b0
+I'm building my homelabs - details coming soon!
 
+A must-have book: Linux Command Line and Shell Scripting Bible
 
-https://academy.hackthebox.eu/ fantastic resource - pricy 
-plenty of courses have been done. soon update.
+Excellent explanation of what is CSRF token and how to hack it: CSRF Token Explanation and Bug Bounty Methodology: CSRF
+
+Hack The Box Academy is a fantastic resource - pricey, but plenty of courses have been done. An update coming soon.
 
 
