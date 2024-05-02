@@ -48,6 +48,6 @@ I'm building my homelabs - details coming soon!
 
 A must-have book: Linux Command Line and Shell Scripting Bible
 
-Excellent explanation of what is CSRF token and how to hack it: CSRF Token Explanation and Bug Bounty Methodology: CSRF
+Excellent explanation of what is CSRF token is and how to hack it: CSRF Token Explanation and Bug Bounty Methodology: CSRF
 
-Hack The Box Academy is a fantastic resource - pricey, but plenty of courses have been done. An update coming soon.
+Hack The Box Academy is a fantastic resource - pricey, but plenty of courses have been prepared.
