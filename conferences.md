@@ -17,3 +17,5 @@ Hacker Spotlight Panel https://www.hackerone.com/resources/wistia-webinars/hacke
 Cyber House party 2.1 - Festive Special 17.12.2020
 
 Red Team Village at NahamCON  14/03/2021
+
+https://www.sans.org/cyber-security-training-events/sans-cybersecurity-leadership-summit-2024/
