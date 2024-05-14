@@ -1,6 +1,6 @@
-https://archive.org/web/   <- Internet archive / can look for deleted post on social media (example)
+https://archive.org/web/   <- Internet archive / can look for deleted posts on social media (example)
 
-https://downloadinstagramvideos.net/en/   <- Name of page says it all
+https://downloadinstagramvideos.net/en/   <- Name of the page says it all
 
 https://ffmpeg.org/ <- A complete, cross-platform solution to record, convert and stream audio and video.
 
@@ -13,7 +13,7 @@ https://github.com/sherlock-project/sherlock <- Hunt down social media accounts 
 https://github.com/SpiderLabs/Responder ./Responder.py -I tun0 <- Retrieving Network Service Hashes
 
 
-During my learning process i decide to take all notes and list of tools in cherryTree. When I finish most of notes will land here
+During my learning process, I decided to take notes and list the tools in the cherry tree. When I finish most of the notes will land here
 
 https://github.com/streaak/keyhacks 
 
