@@ -3,7 +3,7 @@
  </p>
 
 
-<p align="centre">
+<p style=”text-align: center;”>
  Cybersecurity Specialist Journey
   </p>
 Welcome to my journey to become a Cybersecurity Specialist in the Red team. You may think, "oh, another Red team guy..." Well, let me explain why I am drawn to the Red team.
