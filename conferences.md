@@ -21,3 +21,6 @@ Red Team Village at NahamCON  14/03/2021
 https://www.sans.org/cyber-security-training-events/sans-cybersecurity-leadership-summit-2024/
 
 https://www.ncsc.gov.uk/section/keep-up-to-date/cyberuk conference 13 - 15. 05. 2024 conference at the ICC Birmingham
+
+
+https://www.nahamcon.com/schedule NahamCon2024  - May 24th 
