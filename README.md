@@ -9,24 +9,31 @@ Welcome to my journey to become a Cybersecurity Specialist in the Red team. You 
 
 What is Red Teaming?
 Red Teaming is a full-scope, multi-layered attack simulation designed to measure how well a company’s people, networks, applications, and physical security controls can withstand an attack from a real-life adversary. Red team tasks include:
+<ul>
+  <li>Vulnerability assessments</li>
+  <li>Penetration tests</li>
+  <li>Red Team Engagements</li>
+</ul>
 
-Vulnerability assessments
-Penetration tests
-Red Team Engagements
+
+
 My Learning Path
 My first step is to gain more experience within Linux. As a beginner, I'm focusing on Kali v2020.3. (As a QA analyst, I already worked with Ubuntu, Mint, and KDE Plasma.) My goal is to become comfortable with the usage of the command line and most of the preinstalled tools that pen-testers use. Here is a list of courses that I'm taking:
 
-Linux Basics Course
-Kali Linux Tutorial for Beginners
-CompTIA Linux+
-I believe Cybrary is a well-recognized portal in 2020, and most Senior Hiring managers recognize it. After finishing Linux courses, I'm starting with The Cyber Mentor's Zero to Hero Pentesting course.
+<ul>
+  <li>Linux Basics Course - done</li>
+  <li>Kali Linux Tutorial for Beginners - done</li>
+  <li>CompTIA Linux+ - done</li>
+</ul>
+
+Cybrary is a well-recognized portal in 2024 and most Senior Hiring managers recognize it. After finishing Linux courses, I'm starting with The Cyber Mentor's Zero to Hero Pentesting course.
 
 While running this course, there are a couple of additional links for better understanding:
-
-Python (this guy is excellent) Python for Beginners
-Explanation of a ping sweep: Wikipedia: Ping Sweep
-I will add a Python ping sweep to this repo.
-
+<ul>
+<li>Python (this guy is excellent) Python for Beginners</li>
+<li>Explanation of a ping sweep: Wikipedia: Ping Sweep</li>
+<li>I will add a Python ping sweep to this repo.</li>
+</ul>
 I'm intentionally skipping Network+ and Security+ for now. Last year, I completed the CompTIA Network+ in-depth course, and in my current work, I was involved in networking while testing. By running the pen testing course, I hope to better understand if I need to revisit networking or if my current knowledge suffices.
 
 Notes and Advice
@@ -34,9 +41,9 @@ Note: While running this course, you will get to the note-taking part. Let him f
 
 Just a quick advice: many people at the start of the journey ask the same question - how to hide your Kali Linux IP. After hours of research, my advice is: when doing courses, everything is legal, but still, I would advise using NordVPN or preferably Mullvad VPN.
 
-For bug bounties or other stuff with your local Wi-Fi, use proxychains, whoami, or anonsurf - test what suits you the most. Bug bounties are legal, so use VPN.
+For bug bounties or other stuff with your local Wi-Fi, use proxychains, whoami, or anon surf - test what suits you the most. Bug bounties are legal, so use VPN.
 
-For the next step after finishing the Cyber Mentor's course, I'm fully immersing myself into TryHackMe:
+For the next step after finishing the Cyber Mentor's course, I'm fully immersing myself in TryHackMe:
 
 Amazing video for starters
 I've enrolled in the pro version (£8 a month) and started with the introduction and then beginner paths. They are challenging but great. In my free time between reading "hacker" stuff and TryHackMe, I've enrolled in or started (it's free) Linode events from HackerSploit's fantastic series: Linode LIVE! HackerSploit: Linux Server Security Series, Virtual.
@@ -44,10 +51,12 @@ I've enrolled in the pro version (£8 a month) and started with the introduction
 I've also enrolled in TCM Security Academy. It's a fantastic course: Practical Ethical Hacking, highly recommended.
 
 Further Steps
-I'm building my homelabs - details coming soon!
+I'm building my homelabs:
+Current setup:
+<ul>
+  <li>Raspberry pi 4 with docker container</li>
+  <li>Laptop with Kali Linux and ParrotOS in WM</li>
+  <li>Main PC with ParrotOS</li>
+</ul>
 
-A must-have book: Linux Command Line and Shell Scripting Bible
-
-Excellent explanation of what is CSRF token is and how to hack it: CSRF Token Explanation and Bug Bounty Methodology: CSRF
-
-Hack The Box Academy is a fantastic resource - pricey, but plenty of courses have been prepared.
+Hack The Box Academy - currently progressing with the material...
